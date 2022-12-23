@@ -2,37 +2,51 @@
 using System.Diagnostics.Metrics;
 using System.Text;
 
-namespace PrimeNumbers
+namespace PerfectNumbers
 {
     class Program
     {
         static void Main()
         {
-            int n1, n2, i, j;
 
-            Console.WriteLine(" Enter any Starting Number of range : ");
-            n1 = Convert.ToInt32(Console.ReadLine());
+            int n1, n2, i, j, sum;
+            Console.Write("enter the start number ");
+            n1 = int.Parse(Console.ReadLine());
+            Console.Write("enter the end number ");
+            n2 = int.Parse(Console.ReadLine());
 
-            Console.WriteLine("Enter any Ending Number Of range : ");
-            n2 = Convert.ToInt32(Console.ReadLine());
-
-            Console.WriteLine("Prime numbers between {0} and {1} are : \n", n1, n2);
-
-            for (i = n1; i <= n2; i++)
+            for(j=n1;j<=n2;j++)
             {
 
-                for (j = 2; j < i; j++)
+                i = 1;
+                sum = 0;
+                while(i<j)
                 {
-                    if (i % j == 0)
-                        break;
+
+                    if (j % i == 0)
+                        sum += i;
+                    i++;
                 }
 
 
-                if (i == j)
-                    Console.WriteLine(i);
+
+
+
+
+
+
+
+
+
+
+
+
+
+                if (sum == j)
+                Console.WriteLine(j);
 
             }
-
+           
         }
 
     }

@@ -1,0 +1,15 @@
+C:\Users\LAPTOP WORLD\source\repos\test3\test3\obj\Debug\net6.0\test3.csproj.AssemblyReference.cache
+C:\Users\LAPTOP WORLD\source\repos\test3\test3\obj\Debug\net6.0\test3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP WORLD\source\repos\test3\test3\obj\Debug\net6.0\test3.AssemblyInfoInputs.cache
+C:\Users\LAPTOP WORLD\source\repos\test3\test3\obj\Debug\net6.0\test3.AssemblyInfo.cs
+C:\Users\LAPTOP WORLD\source\repos\test3\test3\obj\Debug\net6.0\test3.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP WORLD\source\repos\test3\test3\bin\Debug\net6.0\test3.exe
+C:\Users\LAPTOP WORLD\source\repos\test3\test3\bin\Debug\net6.0\test3.deps.json
+C:\Users\LAPTOP WORLD\source\repos\test3\test3\bin\Debug\net6.0\test3.runtimeconfig.json
+C:\Users\LAPTOP WORLD\source\repos\test3\test3\bin\Debug\net6.0\test3.dll
+C:\Users\LAPTOP WORLD\source\repos\test3\test3\bin\Debug\net6.0\test3.pdb
+C:\Users\LAPTOP WORLD\source\repos\test3\test3\obj\Debug\net6.0\test3.dll
+C:\Users\LAPTOP WORLD\source\repos\test3\test3\obj\Debug\net6.0\refint\test3.dll
+C:\Users\LAPTOP WORLD\source\repos\test3\test3\obj\Debug\net6.0\test3.pdb
+C:\Users\LAPTOP WORLD\source\repos\test3\test3\obj\Debug\net6.0\test3.genruntimeconfig.cache
+C:\Users\LAPTOP WORLD\source\repos\test3\test3\obj\Debug\net6.0\ref\test3.dll
